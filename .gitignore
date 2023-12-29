@@ -5,7 +5,7 @@ package-lock.json
 *.gz
 
 # Coveralls
-.nyc_output
+.nyc_output 
 coverage
 
 # Benchmarking
